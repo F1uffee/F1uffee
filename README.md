@@ -18,8 +18,8 @@ I'm always eager to learn and stay updated with the latest technologies. My curr
 
 ## 👯‍♀️ Open to Collaboration
 
-I'm open to collaborating on interesting frontend projects. Whether it's improving user interfaces, enhancing user experiences, or tackling unique challenges, I'm ready to contribute and learn along the way.
-i'm also open to collaborating on fullstack projects, i have built applications during my cursus at Le Wagon and it was a it was a fulfilling experience.
+I'm open to collaborating on any interesting fullstack projects. Whether it's improving user interfaces, enhancing user experiences, or tackling unique challenges, I'm ready to contribute and learn along the way.
+I like both backend development and frontend development, i have built applications during my cursus at Le Wagon and it was a it was a fulfilling experience.
 
 ## 📫 Let's Connect
 
